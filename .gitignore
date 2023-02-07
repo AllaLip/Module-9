@@ -131,3 +131,30 @@ dmypy.json
 
 # Pyre type checker
 .pyre /
+
+.bash_history
+.idlerc/
+.vscode/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Jedi/
+Links/
+MicrosoftEdgeBackups/
+Music/
+NTUSER.DAT
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+module3/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
